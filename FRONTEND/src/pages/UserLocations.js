@@ -78,7 +78,7 @@ function UserLocations() {
       />
     </div>
     <div>
-      <label htmlFor="lat">Latitude:</label>
+      <label htmlFor="lat">Latitude :</label>
       <input
         type="text"
         id="lat"
